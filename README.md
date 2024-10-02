@@ -6,8 +6,8 @@
 
 ### Installation
 
-> - Install [Maven][https://maven.apache.org/install.html].
-> - Install [Tomcat][https://tomcat.apache.org/download-90.cgi].
+> - Install [Maven](https://maven.apache.org/install.html).
+> - Install [Tomcat](https://tomcat.apache.org/download-90.cgi).
 > - Clone below repository on your local system.
 
 ```sh
