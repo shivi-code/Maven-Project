@@ -29,3 +29,13 @@
 > - After copy this **_.war_** file under webapps folder under tomcat main folder were Tomcat has been installed or simply deploy using Tomcat GUI under manager tab.
 > - Please follow the link on how to install tomcat on Linux system.
 >   [Click here](https://www.redswitches.com/blog/install-apache-tomcat-on-ubuntu/)
+
+## Author
+
+![](src/main/webapp/assets/images/author-profile.png)
+
+**Name**: TusharKaundal
+
+- [GitHub](https://github.com/TusharKaundal)
+- [FrontEnd](https://www.frontendmentor.io/profile/TusharKaundal)
+- [Email](mailto:kaundaltushar@gmail.com)
