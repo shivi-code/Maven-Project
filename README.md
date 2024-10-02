@@ -21,5 +21,5 @@
 > nvm install clean
 > ```
 > - After copy this **_.war_** file under webapps folder under tomcat main folder were Tomcat has been installed or simply deploy using Tomcat GUI under manager tab.
-> - Please follow below link on how to install tomcat on Linux system.
-> [Install Tomcat on Linux](https://www.redswitches.com/blog/install-apache-tomcat-on-ubuntu/)
+> - Please follow the link on how to install tomcat on Linux system.
+> [Click here](https://www.redswitches.com/blog/install-apache-tomcat-on-ubuntu/)
