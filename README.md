@@ -23,7 +23,8 @@
 > - Execute below maven command to get **_.war_** file, will be present under target folder after successful execution.
 >
 > ```sh
-> nvm install clean
+> mvn clean install
+> mvn clean package
 > ```
 >
 > - After copy this **_.war_** file under webapps folder under tomcat main folder were Tomcat has been installed or simply deploy using Tomcat GUI under manager tab.
