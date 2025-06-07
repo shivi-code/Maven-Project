@@ -1,4 +1,4 @@
-FROM openjdk:17-jdk-slim
-COPY /var/lib/jenkins/workspace/First Project/target/Blog-Preview-Card.war target/Blog-Preview-Card.war
+FROM tomcat:9.0
+COPY /var/lib/jenkins/workspace/First Project/target/Blog-Preview-Card.war /usr/local/tomcat/webapps/ROOT.war
 EXPOSE 9090
-ENTRYPOINT ["java", "-jar", "Blog-Preview-Card.war"]
+CMD ["catalina.sh", "run"]
